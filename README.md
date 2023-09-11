@@ -1,6 +1,6 @@
 # MScAIProjects
 
-Repository of projects completed for courses in the MSc in Artificial Intelligence. Topics covered include:
+Repository of projects completed for courses in the MSc in Artificial Intelligence at Utrecht University. Topics covered include:
 - LLMs
 - POS tagging
 - Probabilistic Context-Free Grammar and parsing algorithms (CYK)
