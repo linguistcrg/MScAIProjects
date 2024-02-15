@@ -11,4 +11,4 @@ Repository of projects completed for courses in the MSc in Artificial Intelligen
 - Transformers
 - Question Answering Systems
 
-*Graded assignments are unavailable according to Utrecht University's plagiarism policy.*
+*Graded assignments are unavailable according to Utrecht University's plagiarism policy. Only ungraded assignments (i.e. notebooks with daily homework, where answers were later provided by the instructor) are uploaded.*
